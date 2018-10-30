@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot Builder Echo Bot V4", "OfficePointBot\Bot Builder Echo Bot V4\Bot Builder Echo Bot V4.csproj", "{A3FD6446-0CD2-433F-8F82-D0AC92F51493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot Builder Basic Bot V4", "OfficePointBot\Bot Builder Basic Bot V4\Bot Builder Basic Bot V4.csproj", "{E03D14AD-93CF-479F-B8B5-18CBD6708ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FD6446-0CD2-433F-8F82-D0AC92F51493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FD6446-0CD2-433F-8F82-D0AC92F51493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FD6446-0CD2-433F-8F82-D0AC92F51493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FD6446-0CD2-433F-8F82-D0AC92F51493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03D14AD-93CF-479F-B8B5-18CBD6708ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03D14AD-93CF-479F-B8B5-18CBD6708ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03D14AD-93CF-479F-B8B5-18CBD6708ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03D14AD-93CF-479F-B8B5-18CBD6708ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2147FE0E-4290-4063-BCE1-F4E79FC72B55}
+	EndGlobalSection
+EndGlobal
